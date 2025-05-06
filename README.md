@@ -18,6 +18,7 @@ Os arquivos estão organizados na ordem em que fui fazendo as aulas, esses arqui
 Fixar os conceitos de python, reforçando e usando como base o que ja aprendi em C
 Praticar lógica e algoritmos
 Documentar meu progresso no CS50
+
 👨‍💻
 Dev Kevin — apaixonado por programação, jogos, café e desafios.
 📚 Estudante de Ciência da Computação + nerd feliz com o desempenho no CS50!
